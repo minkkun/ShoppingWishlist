@@ -40,8 +40,7 @@ GIF created with LICECap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Cannot stack the items onto each other in one page even though I have change the layout_height of RV to wrap_content.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
